@@ -22,4 +22,4 @@ please see LICENSE.md for details.
 ## Contributors
 
 - [Greg Wilson](http://third-bit.com)
-
+- [Lynne J. Williams](http://ljwilliams.github.io/) is currently Staff Scientist and Technology Integration Manager for the [BC Children's Hospital MRI Research Facility](https://bcchr.ca/3tmri/home) and is an instructor at [DataCamp](http://datacamp.com)
